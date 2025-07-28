@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hardik210205&label=Profile%20views&color=0e75b6&style=flat" alt="Hardik210205" /> </p>
 
-- 🌱 I’m currently learning **Python & AI/ML**
+- 🌱 I’m currently exploring **Python & AI/ML**
 
 - 📫 How to reach me **hardikpersonal11@gmail.com**
 
